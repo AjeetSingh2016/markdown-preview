@@ -1,6 +1,5 @@
 Here’s an updated version of the `README.md` that includes the additional packages you’ve used:
 
-```markdown
 # Markdown Input and Preview
 
 This project allows users to input Markdown text, preview the rendered output in real-time, and copy either the input text or the preview output to the clipboard. It's a simple and user-friendly Markdown editor built with React, providing a flexible and interactive experience.
@@ -26,6 +25,16 @@ This project allows users to input Markdown text, preview the rendered output in
 - **remarkMath**: A plugin for rendering math expressions in Markdown.
 - **rehypeKatex**: A plugin to render LaTeX math expressions using KaTeX.
 - **Clipboard API**: Used for copying content to the clipboard.
+
+## Installation
+
+To get started with the project locally:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/markdown-editor.git
+
 
 ## Installation
 
